@@ -92,6 +92,7 @@ input:checked+.slider::before {
 .pricing-main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+ 
 }
 
 .pricing-box {
@@ -184,6 +185,7 @@ a:hover {
   border-color: #fff;
   background: transparent;
 }
+
 
 @media only screen and (max-width: 1024px) {
   body {
